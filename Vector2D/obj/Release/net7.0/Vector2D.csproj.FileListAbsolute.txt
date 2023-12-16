@@ -1,0 +1,12 @@
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/bin/Release/net7.0/Vector2D.deps.json
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/bin/Release/net7.0/Vector2D.dll
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/bin/Release/net7.0/Vector2D.pdb
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.csproj.AssemblyReference.cache
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.AssemblyInfoInputs.cache
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.AssemblyInfo.cs
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.csproj.CoreCompileInputs.cache
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.dll
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/refint/Vector2D.dll
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/Vector2D.pdb
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/Vector2D/obj/Release/net7.0/ref/Vector2D.dll
