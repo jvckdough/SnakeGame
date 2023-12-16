@@ -1,0 +1,12 @@
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/bin/Release/net7.0/NetworkController.deps.json
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/bin/Release/net7.0/NetworkController.dll
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/bin/Release/net7.0/NetworkController.pdb
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.csproj.AssemblyReference.cache
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.AssemblyInfoInputs.cache
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.AssemblyInfo.cs
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.csproj.CoreCompileInputs.cache
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.dll
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/refint/NetworkController.dll
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/NetworkController.pdb
+/Users/jackdoughty/Projects/game-sigma-code_game/SnakeGame/NetworkController/obj/Release/net7.0/ref/NetworkController.dll
