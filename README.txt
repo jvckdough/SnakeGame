@@ -7,14 +7,12 @@ November 2023
 
 This project contains a client that can effectively receive information about the state of a game world 
 from a server based on the popular game snake. Based on the updates received, the client can effectively 
-draw the current state of the world per the serverís messages. The client also has the ability to send 
-control requestís to the server, in order to move its snake in basic directions(up, down, left, and 
+draw the current state of the world per the server‚Äôs messages. The client also has the ability to send 
+control request‚Äôs to the server, in order to move its snake in basic directions(up, down, left, and 
 right). The client will follow any world rules or physics outlined by the server, such as collecting 
 power ups and growing its snake and what determines the snakes in the game world  to be dead or alive. 
 The client will keep its snake at the center of its view, while also updating the scores and outcomes of 
 other snake clients that can connect to the same server in its view as well.
-
-Important notes for grading:
 
 Death Animation:
 	Our client will provide an animation upon the death of snakes in the game world. The snake will turn 
@@ -34,9 +32,9 @@ Server Disconnect:
 Windows Issues:
 	At one point during the PS8, we ran into a very large issue where when running the program on windows null 
 	exceptions would be thrown, but the program would run perfectly fine on Mac. At one point, this led to us 
-	having to just finish the assignment by working only on the Mac, as none of the TAís were able to help us fix 
+	having to just finish the assignment by working only on the Mac, as none of the TA‚Äôs were able to help us fix 
 	the issue. After about 5 days, we were able to finally fix the issue and after extensive testing, the client 
-	runs perfectly on the windows laptop. However, we wanted to make a note of this to the TAís when grading this 
+	runs perfectly on the windows laptop. However, we wanted to make a note of this to the TA‚Äôs when grading this 
 	assignment since the issue was so large and caused many(many) problems, we think it is something everyone should 
 	be aware of, even though the problem has been fixed.
 
@@ -53,7 +51,7 @@ world object will keep a list of these game objects that are present within each
 - Our View will subscribe to delegates provided in the game model that will inform the view when a Connection has been made, when data has 
 arrived from the server, and if an error has occurred during any part of the connection process.
 
-Each time our Game controller updates the world, the View will be notified per the ìDataArrivedî delegate, and it will subsequently 
+Each time our Game controller updates the world, the View will be notified per the ‚ÄúDataArrived‚Äù delegate, and it will subsequently 
 call the WorldPanel class, so that every updated object in the world can be redrawn for each frame.
 
 11/17/23 Feature: Handshake between Server and Client:
@@ -69,7 +67,7 @@ call the WorldPanel class, so that every updated object in the world can be redr
 
 11/21/23 Problem: Bug on Windows
 	We have run into a problem where mac is running and drawing the program but windows is throwing a null exception when it games to the world object 
-	in the WorldPanel class. We have tried to fix it but have been unsuccessful and the TAís have not been able to solve the problem, so we are continuing 
+	in the WorldPanel class. We have tried to fix it but have been unsuccessful and the TA‚Äôs have not been able to solve the problem, so we are continuing 
 	the project just on Mac for now.
 
 11/21/23 Feature: Walls Drawn
